@@ -18,7 +18,7 @@ variable "admin_username" {
 
 variable "admin_password" {
   type        = string
-  default     = "MarinVM2024!"
+  default     = "MarinVM2025@"
   description = "Contraseña para el usuario administrador"
   sensitive   = true
 }
