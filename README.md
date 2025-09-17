@@ -4,6 +4,10 @@
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
+>Readme creado con IA
+
+>**Prompt utilizado**: Soy un experto en DevOps y quiero aplicar las mejores prácticas actuales, modularizando este proyecto para que sea escalable. Modifica la estructura del proyecto tanto a nivel de código como de carpetas y archivos para cumplir con lo establecido. Procura usar recursos económicos, y finaliza con un script en powershell que permita ejecutar fácilmente el environment deseado.
+
 Una solución escalable y modular para desplegar infraestructura de máquinas virtuales en Azure usando Terraform, siguiendo las mejores prácticas de DevOps.
 
 ## 📚 Tabla de Contenidos
